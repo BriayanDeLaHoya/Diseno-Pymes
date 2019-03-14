@@ -6,17 +6,14 @@ body {
 }
 #map {
     width: 130vh;
-    height: 100vh;
 }
 #filter {
     width: 40vh;
-    height: 100vh;
     background-color: #d1d8df;
 }
 #instructions {
     background-color: #d1d8df;
     width: 40vh;
-    height: 100vh;
     padding: 1% 1% 0px 1%;
 }
 .instructions__text, .numbers {
