@@ -40,9 +40,15 @@
 }
 
 /*Color modal*/
+<<<<<<< HEAD
 .modal-backdrop {
     opacity: 0.80 !important;
     background-color: ;
+=======
+.modal-backdrop
+{
+    opacity:0.80 !important;
+>>>>>>> b1ea0d9fa02a9bd0bf16cba59b5d19d72dc7145a
 }
 
 .modal-body {
