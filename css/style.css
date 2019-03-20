@@ -243,8 +243,6 @@ input[type="submit"]:hover {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-
-
 }
 
 .tabla {
@@ -431,7 +429,7 @@ input[type="submit"]:hover {
 
 .titulo {
    
-    background:#244369;
+    background:#096887;
     padding: 15px 0;
     
      

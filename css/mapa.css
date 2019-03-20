@@ -10,6 +10,7 @@ body {
 #filter {
     width: 40vh;
     background-color: #d1d8df;
+    padding: 2% 1% 0px 1%;
 }
 #instructions {
     background-color: #d1d8df;
@@ -53,8 +54,22 @@ body {
     display: inline-flex;
 }
 .row {
-    margin-top: 30%;
+    margin-top: 10%;
 } 
 .map-image {
     width: 100%;
+}
+.accordion {
+    margin-top: 15%;
+}
+#btn-datos {
+    font-weight: normal;
+    font-size: 100%;
+    color: #ffffff;
+}
+.card-header {
+    background-color:#0b799e;
+}
+.btn-info {
+    background-color:#0b799e;
 }
