@@ -9,6 +9,10 @@
 }
 .fondo {
     background-color: #F4F6F6;
+    height: 41vh;
+}
+.container-fluid {
+    height: 41vh;
 }
 
 #img {
@@ -42,10 +46,8 @@
     background-color: transparent;
 }
 
-
 .modal-content
 {
-    
     overflow:hidden;
     border: 0px;
     background-color: transparent;
@@ -223,4 +225,7 @@ input[type="submit"]:hover{
 .button.type1.type1:hover:after, .button.type1.type1:hover:before {
   width: 100%;
   height: 100%;
+}
+#nosotros {
+    height: 77vh;
 }
