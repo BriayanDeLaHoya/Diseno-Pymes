@@ -55,7 +55,7 @@
  }
  .footer{
     position: absolute;
-    bottom: 0;
+    
     background-color: #12233c;
     padding: 5px;
     text-align: center;
@@ -65,8 +65,8 @@
  .carousel-indicators{
      padding: 100px;
  }
- .footer img{
-     width: 10%;
+ .footerimg{
+     width: 100%;
      position: center;
-     padding: 0px 20px 0px 20px;
+     padding: 0px 40% 0px 40%;
  }
